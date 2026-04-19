@@ -2,7 +2,7 @@
 
 A simple and powerful extension for Inkscape to generate color harmonies instantly on your canvas.
 
-![Thumbnail](https://votre-lien-image-si-disponible.png)
+![Thumbnail](thumbnail.png)
 
 ## Features
 - **Analogous**: 5 colors following the color wheel.
